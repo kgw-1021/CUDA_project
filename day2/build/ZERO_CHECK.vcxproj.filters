@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\김건우\CUDA_project\day2\build\CMakeFiles\75477314e78b5da58a1e8c7ccb176d10\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{805929F5-CD6B-39FA-8600-DBF39F8E7897}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

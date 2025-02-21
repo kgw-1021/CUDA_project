@@ -1,0 +1,3 @@
+C:/Users/김건우/CUDA_project/day2/build/CMakeFiles/cuda_app.dir
+C:/Users/김건우/CUDA_project/day2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/김건우/CUDA_project/day2/build/CMakeFiles/ZERO_CHECK.dir
